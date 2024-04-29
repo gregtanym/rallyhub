@@ -1,0 +1,967 @@
+[
+    {
+        "clubName": "10XTO",
+        "area": "Toronto"
+    },
+    {
+        "clubName": "Premier Racquet Clubs Markham",
+        "area": "Markham"
+    },
+    {
+        "clubName": "Premier Racquet Clubs Mississauga",
+        "area": "Ottawa"
+    },
+    {
+        "clubName": "Mayfair West",
+        "area": "London"
+    },
+    {
+        "clubName": "Cedar Springs",
+        "area": "Waterloo"
+    },
+    {
+        "clubName": "UofT (55 Harbord St)",
+        "area": "Toronto"
+    },
+    {
+        "clubName": "Toronto Tennis City",
+        "area": "Toronto"
+    },
+    {
+        "clubName": "The Supreme Court",
+        "area": "Waterloo"
+    },
+
+
+    {
+        "clubName": "Mayfair Lakeshore",
+        "area": "London"
+    },
+    {
+        "clubName": "Mayfair East",
+        "area": "Winnipeg"
+    },
+    {
+        "clubName": "Mayfair Parkway",
+        "area": "Kingston"
+    },
+    
+    {
+        "clubName": "Upper Canada College",
+        "area": "Waterloo"
+    },
+    {
+        "clubName": "Crescent School",
+        "area": "Waterloo"
+    },
+    {
+        "clubName": "Ontario Racquet Club",
+        "area": "Toronto"
+    },
+    {
+        "clubName": "Joshua Creek Tennis",
+        "area": "Vancouver"
+    },
+    {
+        "clubName": "Airport Tennis",
+        "area": "Vancouver"
+    },
+    
+    {
+        "clubName": "Eglinton Flats",
+        "area": "Kingston"
+    },
+    {
+        "clubName": "Richmond Hill Country Club",
+        "area": "Richmond Hill"
+    },
+    {
+        "clubName": "The Tennis School",
+        "area": "Vancouver"
+    }
+]
+
+[
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    stopped here first
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "30 Apr 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "30 Apr 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "30 Apr 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "30 Apr 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "30 Apr 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "30 Apr 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    next day
+
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd3516c58c8bf2a3ee3a8",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5186c58c8bf2a3ee3a9",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd52b6c58c8bf2a3ee3aa",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5386c58c8bf2a3ee3ab",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd57e6c58c8bf2a3ee3ac",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd58c6c58c8bf2a3ee3ad",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5996c58c8bf2a3ee3ae",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "1 May 2024",
+        "startTime": "8:00AM",
+        "endTime": "9:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "1 May 2024",
+        "startTime": "9:00AM",
+        "endTime": "10:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "1 May 2024",
+        "startTime": "10:00AM",
+        "endTime": "11:00AM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "1 May 2024",
+        "startTime": "11:00AM",
+        "endTime": "12:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "1 May 2024",
+        "startTime": "12:00PM",
+        "endTime": "1:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+    {
+        ,"club_id": "662dd5a56c58c8bf2a3ee3af",
+        "date": "1 May 2024",
+        "startTime": "1:00PM",
+        "endTime": "2:00PM",
+        "status": "available",
+        "capacity": "6",
+        "currentOccupancy": "0"
+    },
+
+]
