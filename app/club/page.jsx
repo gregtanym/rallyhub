@@ -98,6 +98,8 @@ const ClubBookingPage = () => {
     )
 }
 
+// export default ClubBookingPage
+
 // Wrap the ClubBookingPage component with Suspense at its usage point, not inside it
 export default function WrappedClubBookingPage() {
     return (
